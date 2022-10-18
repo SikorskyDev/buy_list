@@ -10,7 +10,7 @@ const Content = ({ items, handleCheck, handleDelete }) => {
                     handleDelete={handleDelete}
                 />
             ) : (
-                <p style={{ marginTop: '2rem' }}>Твій список пустий.</p>
+                <p style={{ marginTop: '2rem' }}>Список пустий.</p>
             )}
         </main>
     )

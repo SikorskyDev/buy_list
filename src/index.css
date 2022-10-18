@@ -149,14 +149,14 @@ button {
   padding: 0.5rem;
   font-size: 1rem;
   background-color: aliceblue;
-  color: mediumblue;
+  color: #3EBFAD;
   cursor: pointer;
 }
 
 button:focus, 
 button:hover {
   color: white;
-  background-color: limegreen;
+  background-color: #3EBFAD;
   outline: none;
 }
 
