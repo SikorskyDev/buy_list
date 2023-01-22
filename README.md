@@ -1,5 +1,5 @@
 **Description:**
 
-It's only simple Buy List
+It's just simple Buy List
 
-Made for practise React.
+Made for React practise.
